@@ -1,0 +1,26 @@
+{
+  "name": "jasmine-casts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nyc": "^6.14.15",
+    "jasmine-core": "^3.9.0",
+    "karma": "^2.0.5",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^1.1.2",
+    "karma-jasmine-matchers": "^3.8.4",
+    "puppeteer": "^1.6.0"
+  },
+  "dependencies": {
+    "nyc": "^15.1.0"
+  }
+}
